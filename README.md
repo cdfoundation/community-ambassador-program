@@ -1,12 +1,12 @@
 # CDF Community Ambassador Program 2020
 ## Last Updated: Nov 4, 2020
-* [CDF Ambassador Overview & Application page](https://cd.foundation/ambassador-program-overview-application/)
+* [CDF Community Ambassador Overview & Application page](https://cd.foundation/ambassador-program-overview-application/)
 * [CDF Community Ambassador Cohort](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/)
-### CDF Monthly Ambassador Call:
+### CDF Monthly Community Ambassador Call:
 * [Google cal invite](<https://calendar.google.com/calendar/u/0/r/eventedit/copy/dWZ2c3BoN2NnMW5lcTE5YXIzdTRuOWd1cXBfMjAyMDExMThUMTYwMDAwWiBsaW51eGZvdW5kYXRpb24ub3JnX21oZjBrbWdlZG42N2lobmk4cjEyOWF2cDI0QGc/amFjcXVlbGluZS5zYWxpbmFzOTBAZ21haWwuY29t?scp=ALL&sf=true>)
 * Every 3rd Wednesday of the month @ 8am PST
 ## About the Program
-The CDF Ambassador Program is a network of 51+ passionate community leaders, CD industry representatives, thought leaders, and meetup super organizers. These volunteers are committed to empowering their local communities with skills, education and support in CD & DevOps. These individuals include: industry influencers, enterprise practitioners, consultants, bloggers, analysts, advocates, community builders, local event organizers and evangelists. 
+The CDF Community Ambassador Program is a network of 51+ passionate community leaders, CD industry representatives, thought leaders, and meetup super organizers. These volunteers are committed to empowering their local communities with skills, education and support in CD & DevOps. These individuals include: industry influencers, enterprise practitioners, consultants, bloggers, analysts, advocates, community builders, local event organizers and evangelists. 
 CDF Community Ambassadors are individuals who are passionate about the Continuous Delivery Foundation technology and projects, recognized for their expertise in, and willingness to help others learn about the framework and community. 
 The CDF Community Ambassador program aims to and evangelize the CDF by advocating the 9 strategic goals established by the governing board in 2019. Successful ambassadors are individuals that are interested & already help coordinate local and regional meetups, create educational content such as blogs, whitepapers, case studies, or training. The CDF Community Ambassador program exists to empower community members with tools and resources needed to: 
 * Promote CD open source projects and technology
