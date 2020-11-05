@@ -16,21 +16,6 @@ The CDF Community Ambassador program aims to and evangelize the CDF by advocatin
 ## Expected Time Commitments: 
 * Give a talk, host a meetup or perform an activity that spreads awareness of CD four times a year
 * Report back your activities for our end-of-year survey and report
-## FAQ
-* How often are ambassador applications reviewed? 
-* Do I need to re-apply? 
-* Will you email me with a status update of my application each month? 
-* I'd like to get in touch with the CDF ambassador in a specific city/region. Where can I find who is a local ambassador?
-* What if I want to step down or don't have the time to commit anymore?
-## About the CD Foundation
-The Continuous Delivery Foundation (CDF) serves as the vendor-neutral home of many of the fastest-growing projects for continuous integration/continuous delivery (CI/CD). It fosters collaboration between the industry’s top developers, end users and companies to further CI/CD best practices and industry specifications. Its mission is to grow and sustain projects that are part of the broad and expanding continuous delivery ecosystem.
-With respect to values and principles driving the Foundation, the Foundation:
-* believes in the power of Continuous Delivery to empower developers and teams and to produce high quality software more rapidly;
-* believes in the open source solutions collectively addressing the whole software delivery lifecycle;
-* fosters and sustains the ecosystem of open-source, vendor neutral projects through collaboration and interoperability; and
-* advocates these principles and encourages collaborations among practitioners to share and improve their practices.
-CDF will have an open governance model that encourages participation and technical contribution and will provide a framework for long-term stewardship and sustainability for CI/CD tools.
-The CDF will evangelize CI/CD methodologies, define/document best practices, and create training materials to enable software development teams around the world to deliver code changes faster and more reliably. The CDF will also provide software development teams with an OSS-based, open development model.
 ## CD Foundation Community Ambassador Benefits
 * Special promotion of your status as a CDF Community Ambassador & personal brand through content: blogs, podcasts, webinars, events and talks.
 * Special recognition: as a selected ambassador you will have access to a [digital badge], kit [t-shirt & decals from each of CDF projects]
@@ -76,7 +61,22 @@ The CD Foundation Community Ambassador’s play a crucial role in supporting, gr
 - Help develop innovative ways to increase member engagement and experience
 - Follow the code of conduct
 ## CD Foundation Community Ambassador Role Duration
-All new CD Foundation Community Ambassadors will have a provisional designation for 2 quarters. Upon successful completion of the 2 quarters, ambassadorship extends to 4 quarters.  Then, ambassador roles are renewed yearly based on outcomes.
+All new CD Foundation Community Ambassadors will have a provisional designation for 2 quarters. Upon successful completion of the 2 quarters, ambassadorship extends to 4 quarters.  Then, ambassador roles are renewed yearly based on outcomes.## FAQ
+* How often are ambassador applications reviewed? 
+* Do I need to re-apply? 
+* Will you email me with a status update of my application each month? 
+* I'd like to get in touch with the CDF ambassador in a specific city/region. Where can I find who is a local ambassador?
+* What if I want to step down or don't have the time to commit anymore?
+## About the CD Foundation
+The Continuous Delivery Foundation (CDF) serves as the vendor-neutral home of many of the fastest-growing projects for continuous integration/continuous delivery (CI/CD). It fosters collaboration between the industry’s top developers, end users and companies to further CI/CD best practices and industry specifications. Its mission is to grow and sustain projects that are part of the broad and expanding continuous delivery ecosystem.
+With respect to values and principles driving the Foundation, the Foundation:
+* believes in the power of Continuous Delivery to empower developers and teams and to produce high quality software more rapidly;
+* believes in the open source solutions collectively addressing the whole software delivery lifecycle;
+* fosters and sustains the ecosystem of open-source, vendor neutral projects through collaboration and interoperability; and
+* advocates these principles and encourages collaborations among practitioners to share and improve their practices.
+CDF will have an open governance model that encourages participation and technical contribution and will provide a framework for long-term stewardship and sustainability for CI/CD tools.
+The CDF will evangelize CI/CD methodologies, define/document best practices, and create training materials to enable software development teams around the world to deliver code changes faster and more reliably. The CDF will also provide software development teams with an OSS-based, open development model.
+
 ## **Code of Conduct**
 All program and event participants are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws. The Linux Foundation and its project communities are dedicated to providing a harassment-free experience for participants at all of our programs and events. Linux Foundation programs and events are working opportunities intended for professional networking and collaboration within the open source community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at Linux Foundation programs and events or related ancillary or social events, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form. All event participants are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws.
 This Code of Conduct may be revised at any time by The Linux Foundation and the terms are non-negotiable. Your registration for or participation at any Linux Foundation program or event indicates your agreement to abide by this policy and its terms.
