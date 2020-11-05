@@ -15,7 +15,7 @@ The CDF Community Ambassador program aims to and evangelize the CDF by advocatin
 ## Requirements for becoming an official CDF Community Ambassador: 
 * Affiliated with a CDF member OR is a contributor to a CDF project
 * Willing to either speak at community events OR write technical articles for the CDF newsletter or blog
-* Host a CDF community group/meetup. 
+* Host a CDF community group/meetup 
 * Event support
 * Willing to either speak at the CDF Podcast OR Webinar Program
 ## Expected Time Commitments: 
@@ -27,8 +27,8 @@ The CDF Community Ambassador program aims to and evangelize the CDF by advocatin
 - **Represent the Community Publicly**: As a Community Ambassador, you will be a public-facing community representative. You can choose the way you  are most comfortable representing CDF, whether that’s through public speaking or written content such as blogs. We will work with you to find the best fit and provide you with resources to help you be successful as either a speaker, a writer, or both!
 ## CD Foundation Community Ambassador Roles & Responsibilities
 The CD Foundation Community Ambassador’s play a crucial role in supporting, growing and engaging the developer community with a variety of resources.  In order for the CD Foundation to offer free educational content, speaking or training opportunities, and facilitate engagement we need global volunteers to help us coordinate and execute on our behalf. The CD Foundation Community Ambassador minimum responsibilities include at least 1 of the following activities: 
-- Publish 4 or more of the following: podcast, blog, webinar, and/or article per year. 
-- Help stand up local and/or regional Meetup groups and events. 
+- Publish 4 or more of the following: podcast, blog, webinar, and/or article per year
+- Help stand up local and/or regional Meetup groups and events 
   - Organize 4 or more Meetup events per year
 - Give 4 or more talks about CDFs open source projects: Jenkins, JenkinsX, Tekton, Spinnaker, and/or Screwdriver
 ### Additional Roles:
@@ -47,15 +47,15 @@ All new CD Foundation Community Ambassadors will have a provisional designation 
  * Free swag for your Meetup group
 Example of digital badge: 
 * Access to the global CDF Community Ambassador community through a dedicated mailing list [groups.io], Slack channel, CDF Ambassador landing page, discussion forums, and LinkedIn group.
-* Priority assistance: global CDF Community Ambassadors & Director of Ecosystem.
-* Advance notice of podcasts, newsletters, events, CFPs, webinars, and blogs.
-* Assistance with community networks: mailing lists and discussion forums.
-* Opportunity to influence the direction of community-produced resources.
+* Priority assistance: global CDF Community Ambassadors & Director of Ecosystem & Community
+* Advance notice of podcasts, newsletters, events, CFPs, webinars, and blogs
+* Assistance with community networks: mailing lists and discussion forums
+* Opportunity to influence the direction of community-produced resources
 * Opportunity to meet, interview, and interact w/CDF member leaders, GB, Outreach Committee, SIGs, and TOC
 * Need based applicants can submit for free CDF hosted event ticket & travel stipend
 ## More benefits include: 
-* Complimentary collateral: digital copies of case studies, annual report, community content, podcast, webinars, etc. for community distribution.
-* Invitations: monthly ambassador calls and annual in-person gathering.
+* Complimentary collateral: digital copies of case studies, annual report, community content, podcast, webinars, etc. for community distribution
+* Invitations: monthly ambassador calls and annual in-person gathering
 * Opportunities: network with the ambassadors and CDF network to extend professional connections
 * Discounted or free attendance at CDF events
 * Quarterly and yearly awards: 
