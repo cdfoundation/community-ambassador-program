@@ -21,6 +21,24 @@ The CDF Community Ambassador program aims to and evangelize the CDF by advocatin
 ## Expected Time Commitments: 
 * Give a talk, host a meetup or perform an activity that spreads awareness of CD four times a year
 * Report back your activities for our end-of-year survey and report
+## CD Foundation Community Ambassador Commitment
+- **The Community Go-To Resource for People Interested in CDF**: As a Community Ambassador, you will be an important resource to people interested in the CDF and its corresponding projects. We will provide you with training on how to best represent the CDF and provide discount codes for you to attend CDF-sponsored events.
+- **Help Local Users Learn More About CDF**: As a Community Ambassador, you will organize and host a local CDF Users Group meetup. The CDF will provide resources to help you set up your meetup and ongoing support such as swag credits and reimbursements for costs  associated with running community events.
+- **Represent the Community Publicly**: As a Community Ambassador, you will be a public-facing community representative. You can choose the way you  are most comfortable representing CDF, whether that’s through public speaking or written content such as blogs. We will work with you to find the best fit and provide you with resources to help you be successful as either a speaker, a writer, or both!
+## CD Foundation Community Ambassador Roles & Responsibilities
+The CD Foundation Community Ambassador’s play a crucial role in supporting, growing and engaging the developer community with a variety of resources.  In order for the CD Foundation to offer free educational content, speaking or training opportunities, and facilitate engagement we need global volunteers to help us coordinate and execute on our behalf. The CD Foundation Community Ambassador minimum responsibilities include at least 1 of the following activities: 
+- Publish 4 or more of the following: podcast, blog, webinar, and/or article per year. 
+- Help stand up local and/or regional Meetup groups and events. 
+  - Organize 4 or more Meetup events per year
+- Give 4 or more talks about CDFs open source projects: Jenkins, JenkinsX, Tekton, Spinnaker, and/or Screwdriver
+### Additional Roles:
+- Support and promote CDF and affiliated projects on social media (Twitter & LinkedIn)
+- Review training or course materials, promotional/marketing content, and/or event program when applicable
+- Participate in CD Summits, CDCon, and MIndShare Cocktail Hour
+- Help develop innovative ways to increase member engagement and experience
+- Follow the code of conduct
+## CD Foundation Community Ambassador Role Duration
+All new CD Foundation Community Ambassadors will have a provisional designation for 2 quarters. Upon successful completion of the 2 quarters, ambassadorship extends to 4 quarters.  Then, ambassador roles are renewed yearly based on outcomes.
 ## CD Foundation Community Ambassador Benefits
 * Special promotion of your status as a CDF Community Ambassador & personal brand through content: blogs, podcasts, webinars, events and talks.
 * Special recognition: as a selected ambassador you will have access to a [digital badge], kit [t-shirt & decals from each of CDF projects]
@@ -49,24 +67,6 @@ Example of digital badge:
 * Blogger of the Year 
 * Contributor of the Year
 * Ambassador of the Year 
-## CD Foundation Community Ambassador Commitment
-- **The Community Go-To Resource for People Interested in CDF**: As a Community Ambassador, you will be an important resource to people interested in the CDF and its corresponding projects. We will provide you with training on how to best represent the CDF and provide discount codes for you to attend CDF-sponsored events.
-- **Help Local Users Learn More About CDF**: As a Community Ambassador, you will organize and host a local CDF Users Group meetup. The CDF will provide resources to help you set up your meetup and ongoing support such as swag credits and reimbursements for costs  associated with running community events.
-- **Represent the Community Publicly**: As a Community Ambassador, you will be a public-facing community representative. You can choose the way you  are most comfortable representing CDF, whether that’s through public speaking or written content such as blogs. We will work with you to find the best fit and provide you with resources to help you be successful as either a speaker, a writer, or both!
-## CD Foundation Community Ambassador Roles & Responsibilities
-The CD Foundation Community Ambassador’s play a crucial role in supporting, growing and engaging the developer community with a variety of resources.  In order for the CD Foundation to offer free educational content, speaking or training opportunities, and facilitate engagement we need global volunteers to help us coordinate and execute on our behalf. The CD Foundation Community Ambassador minimum responsibilities include at least 1 of the following activities: 
-- Publish 4 or more of the following: podcast, blog, webinar, and/or article per year. 
-- Help stand up local and/or regional Meetup groups and events. 
-  - Organize 4 or more Meetup events per year
-- Give 4 or more talks about CDFs open source projects: Jenkins, JenkinsX, Tekton, Spinnaker, and/or Screwdriver
-### Additional Roles:
-- Support and promote CDF and affiliated projects on social media (Twitter & LinkedIn)
-- Review training or course materials, promotional/marketing content, and/or event program when applicable
-- Participate in CD Summits, CDCon, and MIndShare Cocktail Hour
-- Help develop innovative ways to increase member engagement and experience
-- Follow the code of conduct
-## CD Foundation Community Ambassador Role Duration
-All new CD Foundation Community Ambassadors will have a provisional designation for 2 quarters. Upon successful completion of the 2 quarters, ambassadorship extends to 4 quarters.  Then, ambassador roles are renewed yearly based on outcomes.
 ## FAQ
 * How often are ambassador applications reviewed? 
 * Do I need to re-apply? 
