@@ -2,8 +2,9 @@
 ## Last Updated: Nov 4, 2020
 * [CDF Ambassador Overview & Application page](https://cd.foundation/ambassador-program-overview-application/)
 * [CDF Community Ambassador Cohort](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/)
-**CDF Monthly Ambassador Call:** 
-* Google cal invite
+\
+### CDF Monthly Ambassador Call:
+* [Google cal invite](<https://calendar.google.com/calendar/u/0/r/eventedit/copy/dWZ2c3BoN2NnMW5lcTE5YXIzdTRuOWd1cXBfMjAyMDExMThUMTYwMDAwWiBsaW51eGZvdW5kYXRpb24ub3JnX21oZjBrbWdlZG42N2lobmk4cjEyOWF2cDI0QGc/amFjcXVlbGluZS5zYWxpbmFzOTBAZ21haWwuY29t?scp=ALL&sf=true>)
 * Every 3rd Wednesday of the month @ 8am PST
 ### About the Program
 The CDF Ambassador Program is a network of 51+ passionate community leaders, CD industry representatives, thought leaders, and meetup super organizers. These volunteers are committed to empowering their local communities with skills, education and support in CD & DevOps. These individuals include: industry influencers, enterprise practitioners, consultants, bloggers, analysts, advocates, community builders, local event organizers and evangelists. 
@@ -102,10 +103,7 @@ If a participant (or individual wishing to participate in a Linux Foundation eve
 If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the program or conference staff immediately. Please contact Jacqueline Salinas, Director of Ecosystem, at jsalinas@cd.foundation.
 ### **Incident Response**
 Our staff has taken incident response training and responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, the program and conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the program or conference with no refund, depending on the circumstances. The Linux Foundation reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further Linux Foundation programs, events, training or other activities.
-(CDF Ambassador Overview & Application page)(https://cd.foundation/ambassador-program-overview-application/)
-(CDF Community Ambassador Cohort)(https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/)
-### *CDF Monthly Ambassador Call:* 
-- Google cal invite <https://calendar.google.com/calendar/u/0/r/eventedit/copy/dWZ2c3BoN2NnMW5lcTE5YXIzdTRuOWd1cXBfMjAyMDExMThUMTYwMDAwWiBsaW51eGZvdW5kYXRpb24ub3JnX21oZjBrbWdlZG42N2lobmk4cjEyOWF2cDI0QGc/amFjcXVlbGluZS5zYWxpbmFzOTBAZ21haWwuY29t?scp=ALL&sf=true>
-- Every 3rd Wednesday of the month @ 8am PST
+[CDF Ambassador Overview & Application page](https://cd.foundation/ambassador-program-overview-application/)
+[CDF Community Ambassador Cohort](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/)
 **About the CD Foundation**
 *Continuous delivery (CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time. The Continuous Delivery Foundation (CD Foundation) serves as the vendor-neutral home of many of the fastest-growing projects for continuous delivery, including Jenkins and Jenkins X, as well as fosters collaboration between the industry’s top developers, end users and vendors to further continuous delivery best practices. CD Foundation is part of The Linux Foundation, a nonprofit organization. For more information about the CD Foundation, please visit https://cd.foundation. Copyright © 2020 The Linux Foundation®. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a registered trademark of Linus Torvalds.*
