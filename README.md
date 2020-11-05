@@ -91,10 +91,10 @@ Our staff has taken incident response training and responds to harassment report
 ## The CD Foundation
 The Continuous Delivery Foundation (CDF) serves as the vendor-neutral home of many of the fastest-growing projects for continuous integration/continuous delivery (CI/CD). It fosters collaboration between the industry’s top developers, end users and companies to further CI/CD best practices and industry specifications. Its mission is to grow and sustain projects that are part of the broad and expanding continuous delivery ecosystem.
 With respect to values and principles driving the Foundation, the Foundation:
-* believes in the power of Continuous Delivery to empower developers and teams and to produce high quality software more rapidly;
-* believes in the open source solutions collectively addressing the whole software delivery lifecycle;
-* fosters and sustains the ecosystem of open-source, vendor neutral projects through collaboration and interoperability; and
-* advocates these principles and encourages collaborations among practitioners to share and improve their practices.
+* Believes in the power of Continuous Delivery to empower developers and teams and to produce high quality software more rapidly;
+* Believes in the open source solutions collectively addressing the whole software delivery lifecycle;
+* Fosters and sustains the ecosystem of open-source, vendor neutral projects through collaboration and interoperability; and
+* Advocates these principles and encourages collaborations among practitioners to share and improve their practices.
 CDF will have an open governance model that encourages participation and technical contribution and will provide a framework for long-term stewardship and sustainability for CI/CD tools.
 The CDF will evangelize CI/CD methodologies, define/document best practices, and create training materials to enable software development teams around the world to deliver code changes faster and more reliably. The CDF will also provide software development teams with an OSS-based, open development model.
 ### **About the CD Foundation**
