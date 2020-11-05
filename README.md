@@ -1,5 +1,10 @@
 # CDF Ambassador Program 2020
 ## Last Updated: Nov 4, 2020
+CDF Ambassador Overview & Application page <https://cd.foundation/ambassador-program-overview-application/>
+CDF Community Ambassador Cohort <https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/>
+**CDF Monthly Ambassador Call:** 
+* Google cal invite
+* Every 3rd Wednesday of the month @ 8am PST
 ### About the Program
 The CDF Ambassador Program is a network of 51+ passionate community leaders, CD industry representatives, thought leaders, and meetup super organizers. These volunteers are committed to empowering their local communities with skills, education and support in CD & DevOps. These individuals include: industry influencers, enterprise practitioners, consultants, bloggers, analysts, advocates, community builders, local event organizers and evangelists. 
 CDF Community Ambassadors are individuals who are passionate about the Continuous Delivery Foundation technology and projects, recognized for their expertise in, and willingness to help others learn about the framework and community. 
@@ -67,6 +72,12 @@ All new CD Foundation Community Ambassadors will have a provisional designation 
 * Will you email me with a status update of my application each month? 
 * I'd like to get in touch with the CDF ambassador in a specific city/region. Where can I find who is a local ambassador?
 * What if I want to step down or don't have the time to commit anymore?
+## FAQ
+How often are ambassador applications reviewed? 
+Do I need to re-apply? 
+Will you email me with a status update of my application each month? 
+I'd like to get in touch with the CNCF ambassador in a specific city/region. Where can I find who is a local ambassador?
+What if I want to step down or don't have the time to commit anymore?
 ## About the CD Foundation
 The Continuous Delivery Foundation (CDF) serves as the vendor-neutral home of many of the fastest-growing projects for continuous integration/continuous delivery (CI/CD). It fosters collaboration between the industry’s top developers, end users and companies to further CI/CD best practices and industry specifications. Its mission is to grow and sustain projects that are part of the broad and expanding continuous delivery ecosystem.
 With respect to values and principles driving the Foundation, the Foundation:
@@ -76,7 +87,6 @@ With respect to values and principles driving the Foundation, the Foundation:
 * advocates these principles and encourages collaborations among practitioners to share and improve their practices.
 CDF will have an open governance model that encourages participation and technical contribution and will provide a framework for long-term stewardship and sustainability for CI/CD tools.
 The CDF will evangelize CI/CD methodologies, define/document best practices, and create training materials to enable software development teams around the world to deliver code changes faster and more reliably. The CDF will also provide software development teams with an OSS-based, open development model.
-
 ## **Code of Conduct**
 All program and event participants are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws. The Linux Foundation and its project communities are dedicated to providing a harassment-free experience for participants at all of our programs and events. Linux Foundation programs and events are working opportunities intended for professional networking and collaboration within the open source community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at Linux Foundation programs and events or related ancillary or social events, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form. All event participants are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws.
 This Code of Conduct may be revised at any time by The Linux Foundation and the terms are non-negotiable. Your registration for or participation at any Linux Foundation program or event indicates your agreement to abide by this policy and its terms.
@@ -95,7 +105,7 @@ Our staff has taken incident response training and responds to harassment report
 (CDF Ambassador Overview & Application page)(https://cd.foundation/ambassador-program-overview-application/)
 (CDF Community Ambassador Cohort)(https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/)
 ### *CDF Monthly Ambassador Call:* 
-- (Google cal invite)<https://calendar.google.com/calendar/u/0/r/eventedit/copy/dWZ2c3BoN2NnMW5lcTE5YXIzdTRuOWd1cXBfMjAyMDExMThUMTYwMDAwWiBsaW51eGZvdW5kYXRpb24ub3JnX21oZjBrbWdlZG42N2lobmk4cjEyOWF2cDI0QGc/amFjcXVlbGluZS5zYWxpbmFzOTBAZ21haWwuY29t?scp=ALL&sf=true>
+- Google cal invite <https://calendar.google.com/calendar/u/0/r/eventedit/copy/dWZ2c3BoN2NnMW5lcTE5YXIzdTRuOWd1cXBfMjAyMDExMThUMTYwMDAwWiBsaW51eGZvdW5kYXRpb24ub3JnX21oZjBrbWdlZG42N2lobmk4cjEyOWF2cDI0QGc/amFjcXVlbGluZS5zYWxpbmFzOTBAZ21haWwuY29t?scp=ALL&sf=true>
 - Every 3rd Wednesday of the month @ 8am PST
 **About the CD Foundation**
 *Continuous delivery (CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time. The Continuous Delivery Foundation (CD Foundation) serves as the vendor-neutral home of many of the fastest-growing projects for continuous delivery, including Jenkins and Jenkins X, as well as fosters collaboration between the industry’s top developers, end users and vendors to further continuous delivery best practices. CD Foundation is part of The Linux Foundation, a nonprofit organization. For more information about the CD Foundation, please visit https://cd.foundation. Copyright © 2020 The Linux Foundation®. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a registered trademark of Linus Torvalds.*
