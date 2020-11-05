@@ -66,18 +66,13 @@ The CD Foundation Community Ambassador’s play a crucial role in supporting, gr
 - Help develop innovative ways to increase member engagement and experience
 - Follow the code of conduct
 ## CD Foundation Community Ambassador Role Duration
-All new CD Foundation Community Ambassadors will have a provisional designation for 2 quarters. Upon successful completion of the 2 quarters, ambassadorship extends to 4 quarters.  Then, ambassador roles are renewed yearly based on outcomes.## FAQ
+All new CD Foundation Community Ambassadors will have a provisional designation for 2 quarters. Upon successful completion of the 2 quarters, ambassadorship extends to 4 quarters.  Then, ambassador roles are renewed yearly based on outcomes.
+## FAQ
 * How often are ambassador applications reviewed? 
 * Do I need to re-apply? 
 * Will you email me with a status update of my application each month? 
 * I'd like to get in touch with the CDF ambassador in a specific city/region. Where can I find who is a local ambassador?
 * What if I want to step down or don't have the time to commit anymore?
-## FAQ
-How often are ambassador applications reviewed? 
-Do I need to re-apply? 
-Will you email me with a status update of my application each month? 
-I'd like to get in touch with the CNCF ambassador in a specific city/region. Where can I find who is a local ambassador?
-What if I want to step down or don't have the time to commit anymore?
 ## About the CD Foundation
 The Continuous Delivery Foundation (CDF) serves as the vendor-neutral home of many of the fastest-growing projects for continuous integration/continuous delivery (CI/CD). It fosters collaboration between the industry’s top developers, end users and companies to further CI/CD best practices and industry specifications. Its mission is to grow and sustain projects that are part of the broad and expanding continuous delivery ecosystem.
 With respect to values and principles driving the Foundation, the Foundation:
@@ -104,5 +99,5 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Our staff has taken incident response training and responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, the program and conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the program or conference with no refund, depending on the circumstances. The Linux Foundation reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further Linux Foundation programs, events, training or other activities.
 [CDF Ambassador Overview & Application page](https://cd.foundation/ambassador-program-overview-application/)
 [CDF Community Ambassador Cohort](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/)
-###**About the CD Foundation**
+### **About the CD Foundation**
 *Continuous delivery (CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time. The Continuous Delivery Foundation (CD Foundation) serves as the vendor-neutral home of many of the fastest-growing projects for continuous delivery, including Jenkins and Jenkins X, as well as fosters collaboration between the industry’s top developers, end users and vendors to further continuous delivery best practices. CD Foundation is part of The Linux Foundation, a nonprofit organization. For more information about the CD Foundation, please visit https://cd.foundation. Copyright © 2020 The Linux Foundation®. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a registered trademark of Linus Torvalds.*
