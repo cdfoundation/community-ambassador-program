@@ -1,7 +1,7 @@
 # CDF Ambassador Program 2020
 ## Last Updated: Nov 4, 2020
-CDF Ambassador Overview & Application page <https://cd.foundation/ambassador-program-overview-application/>
-CDF Community Ambassador Cohort <https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/>
+* [CDF Ambassador Overview & Application page](https://cd.foundation/ambassador-program-overview-application/)
+* [CDF Community Ambassador Cohort](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/)
 **CDF Monthly Ambassador Call:** 
 * Google cal invite
 * Every 3rd Wednesday of the month @ 8am PST
@@ -90,17 +90,17 @@ The CDF will evangelize CI/CD methodologies, define/document best practices, and
 ## **Code of Conduct**
 All program and event participants are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws. The Linux Foundation and its project communities are dedicated to providing a harassment-free experience for participants at all of our programs and events. Linux Foundation programs and events are working opportunities intended for professional networking and collaboration within the open source community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at Linux Foundation programs and events or related ancillary or social events, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form. All event participants are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws.
 This Code of Conduct may be revised at any time by The Linux Foundation and the terms are non-negotiable. Your registration for or participation at any Linux Foundation program or event indicates your agreement to abide by this policy and its terms.
-**Expected Behavior**
+### **Expected Behavior**
 All event participants are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws.
-**Unacceptable Behavior**
+### **Unacceptable Behavior**
 Harassment will not be tolerated in any form, including, but not limited to, harassment based on gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held. Harassment includes the use of abusive, offensive or degrading language, intimidation, stalking, harassing photography or recording, inappropriate physical contact, sexual imagery and unwelcome sexual advances or requests for sexual favors. Any report of harassment at one of our events will be addressed immediately. Participants asked to stop any harassing behavior are expected to comply immediately. Anyone who witnesses or is subjected to unacceptable behavior should notify a program or conference organizer at once.
 Individuals who participate (or plan to participate) in Linux Foundation programs and events should conduct themselves at all times in a manner that comports with both the letter and spirit of this policy prohibiting harassment and abusive behavior, whether before, during or after the event. This includes statements made in social media postings, online publications, text messages, and all other forms of electronic communication.
-**Consequences of Unacceptable Behavior**
+### **Consequences of Unacceptable Behavior**
 If a participant engages in harassing behavior, the program or conference organizers may take any action they deem appropriate depending on the circumstances, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund. The Linux Foundation reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further Linux Foundation programs, events, training or other activities.
 If a participant (or individual wishing to participate in a Linux Foundation event), through postings on social media or other online publications or another form of electronic communication, engages in conduct that violates this policy, whether before, during or after a Linux Foundation event, the Linux Foundation may take appropriate corrective action, which could include imposing a temporary or permanent ban on an individual’s participation in future Linux Foundation programs and events.
-**What To Do If You Witness or Are Subject To Unacceptable Behavior**
+### **What To Do If You Witness or Are Subject To Unacceptable Behavior**
 If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the program or conference staff immediately. Please contact Jacqueline Salinas, Director of Ecosystem, at jsalinas@cd.foundation.
-**Incident Response**
+### **Incident Response**
 Our staff has taken incident response training and responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, the program and conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the program or conference with no refund, depending on the circumstances. The Linux Foundation reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further Linux Foundation programs, events, training or other activities.
 (CDF Ambassador Overview & Application page)(https://cd.foundation/ambassador-program-overview-application/)
 (CDF Community Ambassador Cohort)(https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/)
