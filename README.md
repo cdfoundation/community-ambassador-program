@@ -1,4 +1,4 @@
-# CDF Community Ambassador Program 2020
+# CDF Community Ambassador Program 2021
 ## Last Updated: Nov 4, 2020
 * [CDF Community Ambassador Overview & Application page](https://cd.foundation/ambassador-program-overview-application/)
 * [CDF Community Ambassador Cohort](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/)
