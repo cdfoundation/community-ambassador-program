@@ -1,6 +1,6 @@
-# CDF Community Ambassador Program 2022
-## Last Updated: Feb 22, 2022
-* Ambassador Applications are now closed for 2022. New ambassadors will be announced soon!
+# CDF Community Ambassador Program 2023
+## Last Updated: May 23, 2023
+* Ambassador Applications are now closed for 2023. Congratulations to all the new [Ambassadors](https://cd.foundation/ambassadors/)
 * [CDF Community Ambassador Overview & Application page](https://cd.foundation/ambassador-program-overview-application/)
 * [CDF Community Ambassador Cohort](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/)
 ### CDF Monthly Community Ambassador Call:
