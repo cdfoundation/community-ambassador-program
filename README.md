@@ -56,8 +56,6 @@ All new CD Foundation Community Ambassadors will have a provisional designation 
 * Special promotion of your status as a CDF Community Ambassador & personal brand through content: blogs, podcasts, webinars, events and talks.
 * Special recognition: as a selected ambassador you will have access to a [digital badge], kit [t-shirt & decals from each of CDF projects]
 * Badge will  denote open source project expertise
- * CDF t-shirt
- * Free swag for your Meetup group
 Example of digital badge: 
 * Access to the global CDF Community Ambassador community through a dedicated mailing list [groups.io], Slack channel, CDF Ambassador landing page, discussion forums, and LinkedIn group.
 * Priority assistance: global CDF Community Ambassadors & Director of Ecosystem & Community
